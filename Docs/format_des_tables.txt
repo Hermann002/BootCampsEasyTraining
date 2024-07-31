@@ -1,0 +1,5 @@
+Tables:
+    - historique de consommation des utilisateurs: id_visite, id_serie, id_episode, id_utilisateur, n_secondes
+    - utilisateurs: id_user, type_abonnement, date_abonnement
+    - series: nom, date_expiration, n_episode, description
+    - episode de séries: id_episode, id_serie, n_seconde
